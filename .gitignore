@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+*.a
+*.o
+obj/
+philo/philo
+test.txt
+tests/*
+!tests/*.c
+!tests/*.h
+!tests/Makefile
